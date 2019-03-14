@@ -1,8 +1,21 @@
-# Java-Rocketship
+[Java x Rocketship](https://i.gyazo.com/8d5f56a3ef6de2214466f87deefdc850.png)
 
-Printing out a rocketship with nested for loops, scale to any size.
+# Rocketship
 
-## Why?
+Build a scalable rocketship in [Java](https://www.java.com/en/).
 
-This is an assignment I was given in my ap computer science a class where we had to create a rocketship by utilzing nested for loops and print statement. You may also see this assignment in the University of Washington's CSE 143 Intro to Computer Science class.knkn
+## About
 
+This is a project I was assigned in AP Computer Science A. The goal of this project was to utilize nested for loops and print statements to create a scalabe rocketship.
+
+## Built With
+
+* [Java](https://www.java.com/en/) - Coding Language
+
+## Authors
+
+* **Ethan Zoller** - [Twitter](https://twitter.com/learningszn)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
