@@ -1,4 +1,4 @@
-[Java x Rocketship](https://i.gyazo.com/8d5f56a3ef6de2214466f87deefdc850.png)
+![Java x Rocketship](https://i.gyazo.com/8d5f56a3ef6de2214466f87deefdc850.png)
 
 # Rocketship
 
